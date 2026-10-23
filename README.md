@@ -1,70 +1,139 @@
-<!-- KONARK.DEV — profile README Visual direction: midnight / electric violet / mint. Keep it personal, honest, and build-focused. -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,45:312E81,100:0D1117&text=KONARK%20AGARWAL&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=developer%20%20%E2%80%A2%20%20builder%20%20%E2%80%A2%20%20work%20in%20progress&descAlignY=59&descSize=14" alt="Konark Agarwal — developer, builder, work in progress" />
+<a href="https://github.com/konark-dev">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:111827,50:312e81,100:0f766e&text=Konark%20Agarwal&fontColor=ffffff&fontSize=48&fontAlignY=42&desc=Building%20useful%20things%20with%20code.&descSize=17&descAlignY=62&animation=fadeIn" width="100%" alt="Konark Agarwal — developer profile banner"/>
+</a>
 
-<a href="https://github.com/konark-dev"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=650&lines=I+turn+curiosity+into+projects.;Learning+by+building%2C+not+just+watching.;Currently+writing+code+and+figuring+things+out." alt="Animated introduction" /> </a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=650&lines=C%2B%2B+%7C+DSA+%7C+Problem+Solving;Full-stack+projects+%7C+Practical+engineering;Learning+by+building%2C+testing%2C+and+iterating" alt="Typing introduction"/>
+</a>
 
-<br/>
-
-<a href="https://github.com/konark-dev?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Repositories" /></a>
-<a href="https://github.com/konark-dev?tab=followers"><img src="https://img.shields.io/github/followers/konark-dev?style=for-the-badge&label=FOLLOWERS&color=0D1117&labelColor=0D1117&logo=github&logoColor=A78BFA" alt="GitHub followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=konark-dev&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" alt="Profile views" />
+<p>
+  <a href="https://github.com/konark-dev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+  <a href="https://github.com/konark-dev?tab=stars"><img src="https://img.shields.io/badge/Starred%20Projects-View-312e81?style=for-the-badge&logo=github&logoColor=white" alt="Starred projects"/></a>
+  <img src="https://komarev.com/ghpvc/?username=konark-dev&style=for-the-badge&color=334155&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
 
 </div>
 
-<br/>
+whoami
 
-> whoami
+I'm Konark, a Computer Science student who learns best by turning ideas into working software.
 
-I'm Konark — a CSE student who likes turning ideas into working software.
+I enjoy solving problems, understanding how systems fit together, and building practical products—not just collecting frameworks. My current direction is C++ and DSA, alongside full-stack development for projects that solve real workflow problems.
 
-I learn best by building, debugging, and shipping projects. I'm interested in problem-solving, software engineering, and making useful things rather than collecting tutorials.
+Currently working on: strengthening problem-solving fundamentals and shipping project improvements.
 
-🔭 Building: practical projects, experiments, and ideas that deserve to exist.
-🌱 Learning: C++, Java, Python, DSA, and modern full-stack development.
-🧪 Interested in: backend systems, developer tools, and hackathon builds.
-🧭 Current mindset: stay curious, understand the fundamentals, keep shipping.
+Interested in: software engineering, backend systems, developer tools, and product-minded engineering.
 
-Not here to look like I've figured it all out. Here to get better at building.
+My approach: build it, understand it, test it, improve it.
 
-> open_workshop
+Open to: meaningful collaborations, hackathons, and opportunities to learn from strong engineering teams.
 
-A few things from the workshop. Some are experiments; some are bigger ideas in progress.
+I’m still learning. The goal is to understand the code I ship—not just make it run.
 
-<table> <tr> <td width="50%" valign="top"> <h3>⚙️ PramaanFlow</h3> <p>Approval orchestration designed to make multi-step workflows easier to coordinate and track.</p> <a href="https://github.com/konark-dev/PramaanFlow"><img src="https://img.shields.io/badge/Explore_project-A78BFA?style=flat-square&logo=github&logoColor=0D1117" alt="Explore PramaanFlow" /></a> </td> <td width="50%" valign="top"> <h3>🌾 KisanFlow</h3> <p>A farmer-focused project exploring market access, price discovery, and the journey from produce to payment.</p> <a href="https://github.com/konark-dev/kisan-flow"><img src="https://img.shields.io/badge/Explore_project-5EEAD4?style=flat-square&logo=github&logoColor=0D1117" alt="Explore KisanFlow" /></a> </td> </tr> <tr> <td width="50%" valign="top"> <h3>🌱 AgriVa</h3> <p>An agriculture-focused build from the project lab.</p> <a href="https://github.com/konark-dev/AgriVa"><img src="https://img.shields.io/badge/Explore_project-A78BFA?style=flat-square&logo=github&logoColor=0D1117" alt="Explore AgriVa" /></a> </td> <td width="50%" valign="top"> <h3>🧩 NeetCode Submissions</h3> <p>A public trail of DSA practice, problem-solving, and learning through repetition.</p> <a href="https://github.com/konark-dev/neetcode-submissions"><img src="https://img.shields.io/badge/Explore_solutions-5EEAD4?style=flat-square&logo=github&logoColor=0D1117" alt="Explore NeetCode submissions" /></a> </td> </tr> </table>
+Selected work
 
-<p align="center"> <a href="https://github.com/konark-dev?tab=repositories">↗ Browse all repositories</a> &nbsp; • &nbsp; <a href="https://github.com/konark-dev/student-portfolio">Portfolio</a> </p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> tech_stack
+🗺️ PramaanFlow
 
-Tools I work with or am actively learning — not a claim of mastery.
+Regulatory OS · Geospatial jurisdiction intelligence
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,vscode&perline=7" alt="C++, Java, Python, JavaScript, TypeScript, React, Next.js, Node.js, HTML, CSS, Tailwind, Git, GitHub, and VS Code" /> </p>
+A platform concept for navigating regulatory approvals and jurisdiction-specific workflows, with geospatial intelligence at its core.
 
-> github_activity
+Next.js PostgreSQL PostGIS H3 VROOM
 
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=konark-dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=5EEAD4&text_color=C9D1D9&ring_color=A78BFA&include_all_commits=true" alt="GitHub statistics" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konark-dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most used languages" /> </div>
+<a href="https://github.com/konark-dev/PramaanFlow"><strong>Explore repository →</strong></a>
 
-<div align="center"> <img width="70%" src="https://streak-stats.demolab.com?user=konark-dev&hide_border=true&background=0D1117&ring=A78BFA&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=C9D1D9&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=8B949E" alt="GitHub contribution streak" /> </div>
+</td>
+<td width="50%" valign="top">
 
-<div align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=konark-dev&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=5EEAD4&area=true&area_color=312E81&hide_border=true" alt="GitHub contribution activity graph" /> </div>
+🏭 Udyog Setu · kisan-flow
 
-<sub>Stats are generated by external services and may take a little while to load. Language charts reflect repository contents, not skill level.</sub>
+Industrial approvals · Compliance workflows
+
+An SIH 2026 solution concept for industrial approval and compliance workflows, including structured application processes and a document-oriented workflow.
+
+Next.js TypeScript Tailwind CSS Supabase
+
+<a href="https://github.com/konark-dev/kisan-flow"><strong>Explore repository →</strong></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+🧠 NeetCode Submissions
+
+DSA practice · Topic-organized solutions
+
+A collection of coding-problem solutions organized by topic, helping me practice patterns and maintain a record of progress.
+
+DSA Problem Solving Multiple Languages
+
+<a href="https://github.com/konark-dev/neetcode-submissions"><strong>Explore repository →</strong></a>
+
+</td>
+<td width="50%" valign="top">
+
+🧪 More experiments
+
+Prototypes · Hackathons · Learning projects
+
+I use smaller projects and hackathon prototypes to explore ideas, test approaches, and learn by building. Check my repositories for the latest work.
+
+<a href="https://github.com/konark-dev?tab=repositories"><strong>Browse all repositories →</strong></a>
+
+</td>
+</tr>
+</table>
+
+Tools I work with
 
 <div align="center">
 
-> next_commit()
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,react,nextjs,nodejs,tailwind,postgres,supabase,git,github,vscode&perline=7" alt="Technologies and tools"/>
 
-Make something useful. Learn something real. Repeat.
+</div>
 
-<a href="https://github.com/konark-dev?tab=repositories">Explore my work</a>
-  ·  
-<a href="https://github.com/konark-dev">Follow the journey</a>
+<p align="center"><sub>My toolkit evolves with the projects I build; icons represent tools I've used or explored, not a claim of equal proficiency in every one.</sub></p>
 
-<br/><br/>
+GitHub at a glance
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0D1117,50:312E81,100:0D1117" alt="" />
+<div align="center">
+
+<a href="https://github.com/konark-dev">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=konark-dev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0d1117&title_color=5eead4&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub stats"/>
+</a>
+<a href="https://github.com/konark-dev">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konark-dev&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9" alt="Most-used languages"/>
+</a>
+
+<br/>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=konark-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=5EEAD4&fire=A78BFA&currStreakLabel=5EEAD4" alt="GitHub contribution streak"/>
+</a>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=konark-dev&bg_color=0d1117&color=c9d1d9&line=5eead4&point=a78bfa&area=true&hide_border=true" width="96%" alt="Contribution activity graph"/>
+
+</div>
+
+Beyond the code
+
+I value curiosity, clear thinking, and the discipline to keep improving. Hackathons push me to work with constraints and teammates; personal projects help me go deeper than a demo and understand the engineering decisions underneath.
+
+If you're building something useful or want to exchange ideas, feel free to connect through GitHub.
+
+<div align="center">
+
+Less hype. More building. Better every iteration.
+
+<sub>Thanks for stopping by · <a href="https://github.com/konark-dev?tab=repositories">Explore my work</a></sub>
 
 </div>
